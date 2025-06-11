@@ -29,4 +29,4 @@ The source dataset contains the training and test datasets with all the features
 
 training - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_train.csv</br>
 test - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_mine_recovery.ipynb</br>
-source - asdf
+source - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_full.csv
