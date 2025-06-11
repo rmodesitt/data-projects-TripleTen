@@ -18,6 +18,8 @@ A company named <b>Zyfra</b> wants to be able to predict the total amount of gol
 ### Project notebook
 This is a notebook containing the exploratory analysis and model building for the project.
 
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_test.csv
+
 ### Data
 These are three .csv files containing data of each ore mixture - training, test, and source. Data is indexed with the date and time of acquisition (<mark>date</mark>) feature. Parameters that are next to each other in terms of time are often similar.
 
@@ -25,6 +27,6 @@ Some parameters are not available because they were measured and / or calculated
 
 The source dataset contains the training and test datasets with all the features. 
 
-training - asdf</br>
-test - asdf</br>
+training - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_train.csv</br>
+test - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_mine_recovery.ipynb</br>
 source - asdf
