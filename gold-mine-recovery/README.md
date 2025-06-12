@@ -33,3 +33,5 @@ Source (full) - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/g
 
 ### Gold mining technogolocial process
 This is an in-depth explanation of how gold is extracted from ore. There are several stages in the refining process, and understanding them provides context to the features and how the total concentration of gold (target) is calculated.
+
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_technological_process.pdf
