@@ -22,8 +22,9 @@ for the upcoming gaming year.
 ### Project notebook
 This is a Jupyter notebook containing the data analysis, visualizations, and statistical tests of the project.
 
-
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/video-game-sales-analysis/video_game_sales_analysis.ipynb
 
 ### Data
 This is a .csv file of the data on the sale characteristics of video games that have sold in the past several years.
 
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/video-game-sales-analysis/games.csv
