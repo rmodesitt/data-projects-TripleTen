@@ -13,7 +13,8 @@ region for the new oil well development.
   - Predict the average volume of reserves in the new wells
   - Evaluate model using RMSE
 - Prepare for profit calculation
-  - Calculate the volume of reserves needed for developing a new well without losses. Compare with the average volume of reserves in each region
+  - Calculate the volume of reserves needed for developing a new well without losses
+  - Compare with the average volume of reserves in each region
 - Calculate profit from the highest volume of reserves from predictions
   - Use the bootstrapping technique to find the distribution of profit
   - Find average profit, 95% confidence interval, and risk of losses
