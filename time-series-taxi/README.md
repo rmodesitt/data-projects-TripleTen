@@ -13,6 +13,8 @@ the knowledge on what hours will be very busy, this will ultimately attract more
 ### Project notebook
 This is a Jupyter notebook of the analysis and model building.
 
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/time-series-taxi/time_series_taxi.ipynb
+
 ### Data
 This is the .csv file containing the number of taxi orders for each hour.
 
