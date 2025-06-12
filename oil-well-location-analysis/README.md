@@ -20,6 +20,11 @@ region for the new oil well development.
   - Find average profit, 95% confidence interval, and risk of losses
 - Recommend a region for development
 
+### Project notebook
+This is a notebook of the analysis, model building, and calculations of the project.
+
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/oil-well-location-analysis/oil_well_location_analysis.ipynb
+
 ### Data
 There are three .csv files containing geological exploration data for the three regions.
 
