@@ -1,6 +1,6 @@
 # Forecasting gold (Au) concentration from ore mixture
 
-A company named <b>Zyfra</b> wants to be able to predict the total amount of gold concentrate recovered from gold ore before it is extracted and purified. However, the variability of the contents from ore mixture to ore mixture makes it difficult to easily predict the total concentration of gold. Some variables include the concentrations of other elements in the feed, the different solutions used during the cleaning process, and the particle feed size in the mixture. Zyfra has requested a model be built that assesses the different variables / features of each mixture and then predicts the amount of gold in the mixture, ultimately optimizing the production of gold for the future. 
+A company named <b>Zyfra</b> wants to be able to predict the total amount of gold concentrate recovered from gold ore before it is extracted and purified. However, the variability from ore mixture to ore mixture makes it difficult to easily predict the total concentration of gold. Some variables include the concentrations of other elements in the feed, the different solutions used during the cleaning process, and the particle feed size in the mixture. Zyfra has requested a model be built that assesses the different variables / features of each mixture and then predicts the amount of gold in the mixture, ultimately optimizing the production of gold for the future. 
 
 ### Project plan
 - Prepare the data
@@ -21,12 +21,12 @@ This is a notebook containing the exploratory analysis and model building for th
 https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_test.csv
 
 ### Data
-These are three .csv files containing data of each ore mixture - training, test, and source. Data is indexed with the date and time of acquisition (<mark>date</mark>) feature. Parameters that are next to each other in terms of time are often similar.
+There are three .csv files containing data of each ore mixture. There is a source file containing all records, and then two files separated into a training and test dataset. Data is indexed with the date and time of acquisition (<mark>date</mark> feature). Parameters that are next to each other in terms of time are often similar.
 
 Some parameters are not available because they were measured and / or calculated much later. That's why, some of the features that are present in the training are absent from the test set. The test set also doesn't contain targets.
 
 The source dataset contains the training and test datasets with all the features. 
 
-training - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_train.csv</br>
-test - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_mine_recovery.ipynb</br>
-source - asdf
+Training - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_train.csv</br>
+Test - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_mine_recovery.ipynb</br>
+Source (full) - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_full.csv
