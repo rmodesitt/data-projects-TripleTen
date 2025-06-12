@@ -1,6 +1,6 @@
 # Forecasting gold (Au) concentration from ore mixture
 
-A company named <b>Zyfra</b> wants to be able to predict the total amount of gold concentrate recovered from gold ore before it is extracted and purified. However, the variability of the contents from ore mixture to ore mixture makes it difficult to easily predict the total concentration of gold. Some variables include the concentrations of other elements in the feed, the different solutions used during the cleaning process, and the particle feed size in the mixture. Zyfra has requested a model be built that assesses the different variables / features of each mixture and then predicts the amount of gold in the mixture, ultimately optimizing the production of gold for the future. 
+A company named <b>Zyfra</b> wants to be able to predict the total amount of gold concentrate recovered from gold ore before it is extracted and purified. However, the variability from ore mixture to ore mixture makes it difficult to easily predict the total concentration of gold. Some variables include the concentrations of other elements in the feed, the different solutions used during the cleaning process, and the particle feed size in the mixture. Zyfra has requested a model be built that assesses the different variables / features of each mixture and then predicts the amount of gold in the mixture, ultimately optimizing the production of gold for the future. 
 
 ### Project plan
 - Prepare the data
