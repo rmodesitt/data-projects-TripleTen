@@ -2,7 +2,7 @@
 
 Rusty Bargain used car sales service wants to develop an app to attract new customers. An important feature in the app includes the ability to quickly find 
 out the market value of a customer's car. Using historical data on previous used cars, the goal is to build a model to determine the value of a used car, 
-so the customer is informed how much they might make in the current market. Fusty bargain is interested in the quality of the prediction, the speed of the 
+so the customer is informed how much they might make in the current market. Rusty bargain is interested in the quality of the prediction, the speed of the 
 prediction, and the time required for training.
 
 ### Project plan
@@ -17,8 +17,9 @@ prediction, and the time required for training.
 ### Project notebook
 This is a Jupyter notebook containing the analysis and model building for the project.
 
-
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/car-sales-analysis/car-sales-analysis.ipynb
 
 ### Data
 This is a .csv file containing the data on used car sales.
 
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/car-sales-analysis/car_data.csv
