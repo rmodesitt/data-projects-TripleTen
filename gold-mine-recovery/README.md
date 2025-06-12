@@ -30,3 +30,6 @@ The source dataset contains the training and test datasets with all the features
 Training - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_train.csv</br>
 Test - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_mine_recovery.ipynb</br>
 Source (full) - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/gold-mine-recovery/gold_recovery_full.csv
+
+### Gold mining technogolocial process
+This is an in-depth explanation of how gold is extracted from ore. There are several stages in the refining process, and understanding them provides context to the features and how the total concentration of gold (target) is calculated.
