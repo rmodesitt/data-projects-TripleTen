@@ -10,6 +10,11 @@ the knowledge on what hours will be very busy, this will ultimately attract more
 - Train different models with different hyperparameters. Select the best model
 - Perform final testing and evaluation
 
+### Project notebook
+This is a Jupyter notebook of the analysis and model building.
+
 ### Data
-This is the .csv file containing the number of taxi orders for each hour. 
+This is the .csv file containing the number of taxi orders for each hour.
+
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/time-series-taxi/taxi.csv
 
