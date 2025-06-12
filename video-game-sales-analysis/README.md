@@ -1,6 +1,6 @@
 # Video games sales analysis
 
-The company Ice wants to identify what types of games the online store should stock and have inventory of for the coming year. Ice has historical data about the game genres, platforms, reviews on game sales for the past several years.
+The company Ice wants to identify what types of games the online store should stock and have inventory of for the coming year. Ice has historical data about the game genres, platforms, reviews, etc. on game sales for the past several years.
 Based on the data, are there any patterns or correlations that determine whether a game succeeds or not? This will allow Ice to spot potential big winners, plan advertising campaigns, and ensure the store is stocked with the most popular games
 for the upcoming gaming year.
 
