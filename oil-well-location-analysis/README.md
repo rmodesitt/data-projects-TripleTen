@@ -22,9 +22,9 @@ region for the new oil well development.
 ### Data
 There are three .csv files containing geological exploration data for the three regions.
 
-Region 0 - </br>
-Region 1 - </br>
-Region 2 - </br>
+Region 0 - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/oil-well-location-analysis/geo_data_0.csv</br>
+Region 1 - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/oil-well-location-analysis/geo_data_1.csv</br>
+Region 2 - https://github.com/rmodesitt/data-projects-TripleTen/blob/main/oil-well-location-analysis/geo_data_2.csv</br>
 
 _id_ — unique oil well identifier</br>
 _f0, f1, f2_ — three features of points</br>
