@@ -27,10 +27,15 @@ This is a link to the interactive web dashboard containing the key insights into
 
 https://car-market-analysis.onrender.com/
 
-### Data
+### Project notebook
+This is a Jupyter notebook of the analysis and data visulizations.
 
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/car-advertisement/EDA.ipynb
+
+### Data
 This is the .csv file containing car sales data.
 
+https://github.com/rmodesitt/data-projects-TripleTen/blob/main/car-advertisement/vehicles_us.csv
 
 
 
