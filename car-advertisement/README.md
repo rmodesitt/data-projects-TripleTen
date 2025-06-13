@@ -1,6 +1,38 @@
-# Car market analysis
-The content of this repository contains analysis and the components for data visualizations for car advertisement data from the vehicles.us.csv dataset. It explores, compares, and contrasts the differences in different car types, their prices, condition, and much more. 
+# Car sales and market dashboard
 
-There is a Jupyter notebook in the <b>notebooks</b> directory that provides data and visual analysis of the car dataset. There is also a python script named *app.py* that is used to view some of the data visualizations from a web application via Streamlit and Render.
+This project provides key insights and visualizations into car sales and marketing details through the interaction with a web dashboard. An interactive web 
+application was developed and deployed to a cloud service via <b>Render</b>. The web service was linked to this Github repository, configured, and then deployed for use.
+In the dashboard, settings and filters can be applied to find patterns and contrasts between car types, prices, conditions, and much more. See below for the URL link.
 
-Here is a link to the web app via Render: https://car-market-analysis.onrender.com/
+<b>NOTE:</b> In order to run the application locally you will need:
+
+- Virtual environment, such as Anaconda Navigator (https://www.anaconda.com/download)
+- Open CMD.exe prompt in Anaconda Navigator
+- Install streamlit (pip install streamlit)
+- Change directories (CD file path location)
+- Tun the app file (streamlit run app.py)
+
+### Project plan
+
+- Download and prepare the data
+- Perform exploratory data analysis on the dataset
+- Develop the web application dashboard
+  - Create python file containing data analysis and visualizations via streamlit
+- Deploy the application to Render
+  - Create config file in GitHub repo
+  - Create new web service in Render and link to repo
+
+### Web dashboard
+This is a link to the interactive web dashboard containing the key insights into car sales and marketing.
+
+https://car-market-analysis.onrender.com/
+
+### Data
+
+This is the .csv file containing car sales data.
+
+
+
+
+
+
