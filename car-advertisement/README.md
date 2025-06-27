@@ -10,7 +10,7 @@ In the dashboard, settings and filters can be applied to find patterns and contr
 - Open CMD.exe prompt in Anaconda Navigator
 - Install streamlit (pip install streamlit)
 - Change directories (CD file path location)
-- Tun the app file (streamlit run app.py)
+- Run the app file (streamlit run app.py)
 
 ### Project plan
 
