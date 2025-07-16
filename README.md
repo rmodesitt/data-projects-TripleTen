@@ -1,5 +1,5 @@
 # TripleTen data science projects
-This repository represents a compilation of several data science and analysis projects that I completed through the 8-month TripleTen Data Science coding boot camp. The
+This repository is a compilation of several data science and analysis projects that I completed through a 8-month TripleTen Data Science coding boot camp. The
 projects solve real-world problems, and exemplify my growing skills as a data scientist and analyst. The projects incorporate many area specializations, ranging from exploratory data analysis, machine learning implementation, 
 statistical analysis, predictive modeling, data mining, and much more!
 
