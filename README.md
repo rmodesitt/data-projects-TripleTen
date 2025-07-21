@@ -3,6 +3,8 @@ This repository is a compilation of several data science and analysis projects t
 projects solve real-world problems, and exemplify my growing skills as a data scientist and analyst. The projects incorporate many area specializations, ranging from exploratory data analysis, machine learning implementation, 
 statistical analysis, predictive modeling, data mining, and much more!
 
+### 🔍Projects
+
 [Car sales and market dashboard](/car-advertisement)<br><br>
 [Car sales analysis and future planning](/car-sales-analysis)<br><br>
 [Predicting future customer behaviors at Beta Bank](/customer-behavior-forecast)<br><br>
@@ -11,5 +13,10 @@ statistical analysis, predictive modeling, data mining, and much more!
 <b>Final project</b>: [Telecom client churn analysis for Interconnect](/telecom-client-churn)<br><br>
 [Taxi order forecast](/time-series-taxi)<br><br>
 [Video games sales analysis](/video-game-sales-analysis)<br><br>
+
+### 🛠️ Tools and technologies
+- Python, pandas, numpy, matplotlib, seaborn, skikit-learn
+- Jupyter notebook, Streamlit, Plotly, NTLT, statsmodels
+- Git, GitHub
 
 
